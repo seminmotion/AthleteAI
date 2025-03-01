@@ -1,0 +1,9 @@
+python-telegram-bot==20.3
+apscheduler==3.10.1
+sqlalchemy[asyncio]==2.0.28
+asyncpg==0.29.0
+tweepy==4.14.0
+tenacity==8.3.0
+python-dotenv==1.0.1
+alembic==1.13.1
+python-dateutil==2.8.2

@@ -1,0 +1,36 @@
+{
+    "workouts": {
+      "general": {
+        "1": ["Push-ups 3x10", "Bodyweight Squats 3x15", "Plank 1min"],
+        "2": ["Pull-ups 3x8", "Lunges 3x12", "Mountain Climbers 3x20"],
+        "3": ["Muscle-ups 3x5", "Pistol Squats 3x8", "Planche Progressions"]
+      },
+      "yoga": {
+        "1": ["Sun Salutations 5x", "Child's Pose 2min", "Tree Pose 1min"],
+        "2": ["Warrior Flow Series", "Crow Pose Practice", "Bridge Pose 2min"],
+        "3": ["Advanced Arm Balances", "Inversion Practice", "Full Primary Series"]
+      }
+    },
+    "nutrition": {
+      "balance": {
+        "1": ["Grilled Chicken with Vegetables", "Whole Grain Pasta"],
+        "2": ["Salmon with Quinoa", "Greek Yogurt with Nuts"],
+        "3": ["Lean Steak with Sweet Potato", "Protein Shake"]
+      },
+      "weight_loss": {
+        "1": ["Vegetable Soup", "Grilled Fish Salad"],
+        "2": ["Turkey Wrap", "Steamed Broccoli"],
+        "3": ["Keto Bowl", "Low-carb Smoothie"]
+      },
+      "muscle_gain": {
+        "1": ["Egg White Omelette", "Cottage Cheese"],
+        "2": ["Beef Stir Fry", "Protein Pancakes"],
+        "3": ["Mass Gainer Shake", "Chicken Rice Bowl"]
+      },
+      "vegan": {
+        "1": ["Tofu Stir Fry with Brown Rice", "Quinoa Salad with Chickpeas"],
+        "2": ["Lentil Curry with Coconut Milk", "Chickpea Stew with Spinach"],
+        "3": ["Vegan Protein Smoothie", "Avocado Toast with Hemp Seeds"]
+      }
+    }
+  }
