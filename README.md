@@ -1,6 +1,6 @@
 # 🏋️ AthleteAI - Fitness & Motivation
 
-AthleteAI is a Telegram and Twitter bot designed to provide personalized fitness and nutrition plans, user profile tracking, and daily motivation. Whether you're looking for workout guidance, dietary recommendations, or just a boost of inspiration, AthleteAI has you covered!
+AthleteAI is a Telegram and Twitter AI designed to provide personalized fitness and nutrition plans, user profile tracking, and daily motivation. Whether you're looking for workout guidance, dietary recommendations, or just a boost of inspiration, AthleteAI has you covered!
 
 ---
 
